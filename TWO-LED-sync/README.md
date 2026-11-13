@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/c5ecd6c3-8a01-48d3-b087-9dab3fdfdd93
+https://github.com/user-attachments/assets/ca12c7cd-a7a1-41e8-99ae-73743027d0fc
+
+
 
 # Two LEDs Blinking in Sync
 
