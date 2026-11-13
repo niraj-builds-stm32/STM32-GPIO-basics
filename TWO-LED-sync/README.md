@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c5ecd6c3-8a01-48d3-b087-9dab3fdfdd93
+
 # Two LEDs Blinking in Sync
 
 Two LEDs blinking together in sync on the STM32 Nucleo F446RE, written in embedded C using STM32CubeIDE.
