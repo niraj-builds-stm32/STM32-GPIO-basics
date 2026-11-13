@@ -11,7 +11,7 @@ Basic LED blinking projects on the STM32 Nucleo F446RE, using HAL GPIO functions
 
 ## Projects
 - [GPIO-toggle](GPIO-toggle):blinking the onboard led on PA5(demo and code below)
-- [Two-LED-sync](TWO-LED- sync): one external led and  one onboard led PA5 blinking in sync
+- [Two-LED-sync](TWO-LED-sync): one external led and  one onboard led PA5 blinking in sync
 
 ## How it works
 - `HAL_GPIO_TogglePin()` flips the LED state each time it is called.
